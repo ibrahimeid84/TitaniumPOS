@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>تحديثات برنامج تيتانيوم</title>
+        <item>
+            <title>الإصدار 1.0.1</title>
+            <description>
+                - تم إضافة فواتير المبيعات بتصميم جديد.
+                - إصلاح مشكلة قص الفاتورة في الطباعة.
+            </description>
+            <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/اسم_حسابك/اسم_المستودع/releases/download/v1.0.1/TitaniumPOS.exe"
+                       sparkle:version="1.0.1"
+                       sparkle:os="windows"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
