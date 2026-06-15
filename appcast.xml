@@ -10,7 +10,7 @@
             </description>
             <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
             <enclosure url="https://github.com/user-attachments/files/28957621/TitaniumPOS_Update.zip"
-                       sparkle:version="1.0.1"
+                       sparkle:version="1.0.2"
                        sparkle:os="windows"
                        type="application/octet-stream" />
         </item>
