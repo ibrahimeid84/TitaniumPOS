@@ -9,7 +9,7 @@
                 - إصلاح مشكلة قص الفاتورة في الطباعة.
             </description>
             <pubDate>Mon, 17 Jun 2026 12:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/ibrahimeid84/TitaniumPOS/releases/download/v1.0.2/TitaniumPOS_Update.zip"
+        <enclosure url="https://github.com/user-attachments/files/29047709/TitaniumPOS_Update.zip"
            sparkle:version="1.0.2+3" 
            sparkle:shortVersionString="1.0.2"
            sparkle:os="windows"
