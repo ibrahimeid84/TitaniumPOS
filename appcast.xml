@@ -8,12 +8,12 @@
                 - تم إضافة فواتير المبيعات بتصميم جديد.
                 - إصلاح مشكلة قص الفاتورة في الطباعة.
             </description>
-            <pubDate>Mon, 17 Jun 2026 12:00:00 +0000</pubDate>
-        <enclosure url="https://github.com/user-attachments/files/29047709/TitaniumPOS_Update.zip"
-           sparkle:version="1.0.2+3" 
-           sparkle:shortVersionString="1.0.2"
-           sparkle:os="windows"
-           type="application/octet-stream" />
+            <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/user-attachments/files/29047709/TitaniumPOS_Update.zip"
+                       sparkle:version="1.0.2+3"
+                       sparkle:shortVersionString="1.0.2"
+                       sparkle:os="windows"
+                       type="application/octet-stream" />
         </item>
     </channel>
 </rss>
