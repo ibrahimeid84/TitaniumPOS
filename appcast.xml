@@ -9,8 +9,10 @@
                 - إصلاح مشكلة قص الفاتورة في الطباعة.
             </description>
             <pubDate>Mon, 15 Jun 2026 12:00:00 +0000</pubDate>
+            <!-- 💡 تأكد أن الرابط بالأسفل هو رابط ملف الـ ZIP التابع للـ Release 1.0.2 الجديد -->
             <enclosure url="https://github.com/user-attachments/files/28958589/Titanium.POS.zip"
-                       sparkle:version="1.0.3"
+                       sparkle:version="1.0.2" 
+                       sparkle:shortVersionString="1.0.2"
                        sparkle:os="windows"
                        type="application/octet-stream" />
         </item>
