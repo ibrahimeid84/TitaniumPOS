@@ -3,15 +3,15 @@
     <channel>
         <title>تحديثات برنامج تيتانيوم</title>
         <item>
-            <title>الإصدار 1.0.2</title>
+            <title>الإصدار 1.0.3</title>
             <description>
-                - تم إضافة فواتير المبيعات بتصميم جديد.
-                - إصلاح مشكلة قص الفاتورة في الطباعة.
+                - السماح بإنشاء وتعديل الفواتير حتى لو كانت الكمية صفر أو سالبة.
+                - تحسينات عامة واستقرار النظام.
             </description>
-            <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
-            <enclosure url="https://https://github.com/ibrahimeid84/TitaniumPOS/releases/download/v1.0.3/pos.v1.0.3.zip"
-                       sparkle:version="1.0.2+3"
-                       sparkle:shortVersionString="1.0.2"
+            <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/ibrahimeid84/TitaniumPOS/releases/download/v1.0.3/pos.v1.0.3.zip"
+                       sparkle:version="1.0.3+4"
+                       sparkle:shortVersionString="1.0.3"
                        sparkle:os="windows"
                        sparkle:arguments="/VERYSILENT /SUPPRESSMSGBOXES"
                        type="application/octet-stream" />
